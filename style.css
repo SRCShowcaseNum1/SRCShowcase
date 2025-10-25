@@ -23,7 +23,7 @@ input[type="file"] {
 }
 
 .heading {
-	place-self: center;
+	place-self: left;
 	grid-column: 1 / span 3;
 	grid-row: 1;
 	text-align: left;
@@ -103,4 +103,5 @@ canvas {
 	outline: none;
 
 }
+
 
